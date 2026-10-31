@@ -1,0 +1,6 @@
+{
+  "name": "Practical Programs",
+  "description": "A clean, single-page practical programming code collection with one-click copy functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
