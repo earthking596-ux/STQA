@@ -150,7 +150,7 @@ export default function App() {
             No practical programs available.
           </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 sm:gap-6 items-start">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 sm:gap-6 items-stretch">
             {practicals.map((practical) => (
               <PracticalCard
                 key={practical.id || practical.practical_number}
